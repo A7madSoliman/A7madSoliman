@@ -8,7 +8,7 @@
 
 ## Frontend Developer | React & Next.js Specialist
 
-I'm a passionate Frontend Developer with expertise in building modern, responsive, and user-friendly web applications. My tech stack includes **React**, **Next.js**, **JavaScript**, **TypeScript**, **HTML**, **CSS**, **Tailwind CSS**, and **Material-UI (MUI)**. I’m currently working at **Fresh-Card eCommerce**, where I contribute to building scalable and efficient e-commerce solutions.
+I'm a passionate Frontend Developer with expertise in building modern, responsive, and user-friendly web applications. My tech stack includes **React**, **Next.js**, **JavaScript**, **TypeScript**, **HTML**, **CSS**, **Tailwind CSS**, and **Material-UI (MUI)**.
 
 ---
 
