@@ -41,16 +41,15 @@ I’m currently working at **Fresh-Card eCommerce**, where I’m contributing to
 
 ---
 
+### 📊 GitHub Stats 
 
-
-### 📊 GitHub Stats /  🔥 Top Languages
-
-<div align="flex">
   ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=A7madSoliman&show_icons=true&theme=dark)
 
+---
+
+### 🔥 Top Languages
   ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=A7madSoliman&layout=compact&theme=dark)
 
-</div>
 
 
 Thanks for visiting my profile! Feel free to reach out if you’d like to collaborate or just chat about tech. 😄
