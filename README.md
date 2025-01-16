@@ -4,7 +4,7 @@
   <img alt="github-snake" src="https://raw.githubusercontent.com/tobiasmeyhoefer/tobiasmeyhoefer/output/github-snake.svg" />
 </picture>
 
-# Hi there, I'm AHMED ASHRI SOLIMAN 👋
+# <h1 align="center">Hi there, I'm AHMED ASHRI SOLIMAN 👋<h1/>
 
 ## Frontend Developer | React & Next.js Specialist
 
@@ -43,16 +43,12 @@ I’m currently working at **Fresh-Card eCommerce**, where I’m contributing to
 
 
 
-### 📊 GitHub Stats
+### 📊 GitHub Stats / ### 🔥 Top Languages
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=A7madSoliman&show_icons=true&theme=dark)
 
----
-
-### 🔥 Top Languages
-
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=A7madSoliman&layout=compact&theme=dark)
 
----
+
 
 Thanks for visiting my profile! Feel free to reach out if you’d like to collaborate or just chat about tech. 😄
