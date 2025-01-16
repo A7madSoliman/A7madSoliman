@@ -1,14 +1,16 @@
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/tobiasmeyhoefer/tobiasmeyhoefer/output/github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/tobiasmeyhoefer/tobiasmeyhoefer/output/github-snake.svg" />
-  <img alt="github-snake" src="https://raw.githubusercontent.com/tobiasmeyhoefer/tobiasmeyhoefer/output/github-snake.svg" />
-</picture>
-
-# <h1 align="center">Hi there, I'm AHMED ASHRI SOLIMAN 👋<h1/>
+# Hi there, I'm AHMED ASHRI SOLIMAN 👋
 
 ## Frontend Developer | React & Next.js Specialist
 
 I'm a passionate Frontend Developer with expertise in building modern, responsive, and user-friendly web applications. My tech stack includes **React**, **Next.js**, **JavaScript**, **TypeScript**, **HTML**, **CSS**, **Tailwind CSS**, and **Material-UI (MUI)**.
+
+---
+
+<picture  align="center">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/tobiasmeyhoefer/tobiasmeyhoefer/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/tobiasmeyhoefer/tobiasmeyhoefer/output/github-snake.svg" />
+  <img alt="github-snake" src="https://raw.githubusercontent.com/tobiasmeyhoefer/tobiasmeyhoefer/output/github-snake.svg" />
+</picture>
 
 ---
 
