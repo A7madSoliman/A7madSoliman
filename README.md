@@ -1,6 +1,6 @@
-### Hi there, I'm AHMED ASHRI SOLIMAN 👋
+# Hi there, I'm AHMED ASHRI SOLIMAN 👋
 
-### Frontend Developer | React & Next.js Specialist
+## Frontend Developer | React & Next.js Specialist
 
 I'm a passionate Frontend Developer with expertise in building modern, responsive, and user-friendly web applications. My tech stack includes **React**, **Next.js**, **JavaScript**, **TypeScript**, **HTML**, **CSS**, **Tailwind CSS**, and **Material-UI (MUI)**.
 
