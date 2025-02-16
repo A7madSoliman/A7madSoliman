@@ -37,11 +37,6 @@ I'm a passionate Frontend Developer with expertise in building modern, responsiv
 
 ---
 
-### 💼 Current Work
-
-I’m currently working at **Fresh-Card eCommerce**, where I’m contributing to the development of a robust and scalable e-commerce platform. My role involves building and maintaining frontend features, optimizing performance, and ensuring a seamless user experience.
-
----
 
 ### 📊 GitHub Stats 
 
